@@ -12,7 +12,7 @@
 
 
 
-
+emr
 
 	SerializeField protecte int health damage
     		SerializeField protected float cooldown attackDistance 
